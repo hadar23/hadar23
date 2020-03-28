@@ -1,4 +1,4 @@
-# hadar23
+# Recursive-Puzzle-Solver
 Recursive-Puzzle-Solver
 Recursive-Puzzle-Solver
 A recursive Puzzle solver in Java
